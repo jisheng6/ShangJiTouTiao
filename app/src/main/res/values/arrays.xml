@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ctype">
+        <item>餐饮</item>
+        <item>财经</item>
+        <item>创业</item>
+        <item>汽车</item>
+        <item>名人</item>
+        <item>科技</item>
+        <item>社会</item>
+        <item>旅游</item>
+        <item>环保</item>
+        <item>公益</item>
+        <item>家居</item>
+        <item>美容</item>
+        <item>服装</item>
+        <item>文化</item>
+        <item>教育</item>
+        <item>健康</item>
+        <item>房产</item>
+    </string-array>
+    <string-array name="ctypen">
+        <item>饰品礼品</item>
+        <item>餐饮小吃</item>
+        <item>服装鞋帽</item>
+        <item>环保机械</item>
+        <item>家居建材</item>
+        <item>教育网络</item>
+        <item>美容保健</item>
+        <item>特色项目</item>
+    </string-array>
+</resources>
